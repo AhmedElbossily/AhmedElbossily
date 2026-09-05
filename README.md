@@ -26,7 +26,7 @@ My research focuses on developing **C++/CUDA GPU-accelerated solvers** for large
 
 ### 📫 Connect
 
-* 🌐 [**Website**](AhmedElbossily.github.io)
+* 🌐 [**Website**](https://ahmedelbossily.github.io/)
 * 🧑‍💼 [**LinkedIn**](https://www.linkedin.com/in/ahmed-fathy-elbossily/)
 * 📚 [**Google Scholar**](https://scholar.google.com/citations?user=J8BZdsoAAAAJ&hl=en)
 * ✍️ [**Medium**](https://medium.com/@ahmed.fathy.elbossily)
